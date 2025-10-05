@@ -37,7 +37,7 @@ A modern, interactive quiz application built with React to test your knowledge o
 2. Install dependencies:
    ```bash
    npm install
-   ```
+   ``` 
 
 3. Start the JSON Server for questions:
    ```bash
