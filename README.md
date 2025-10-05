@@ -30,7 +30,7 @@ A modern, interactive quiz application built with React to test your knowledge o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-quiz-app.git
+   git clone https://github.com/mohamed589m/React-Quiz.git
    cd react-quiz-app
    ```
 
